@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Miller John",
+    "mobile": "897654321",
+    "age": 45,
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Midas Kosmidas",
+    "mobile": "897666321",
+    "age": 40,
+    "address": {
+      "city": "Atlanta",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Jack White",
+    "mobile": "897600321",
+    "age": 50,
+    "address": {
+      "city": "Canada",
+      "country": "USA"
+    }
+  }
+]
